@@ -1,4 +1,4 @@
-# move-tech-lab-docker
+# move-tech-orders-api
 
 Repositório starter para o **Lab H2 · Empacotar com Docker** do curso Move Tech (Magalu × Prósper Digital Skills).
 
